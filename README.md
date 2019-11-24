@@ -4,3 +4,4 @@
 https://zhuanlan.zhihu.com/p/93398713
 
 运行程序执行：
+python3 nfc.py
